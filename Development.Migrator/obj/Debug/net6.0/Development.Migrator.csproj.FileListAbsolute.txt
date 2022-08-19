@@ -1,0 +1,12 @@
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\bin\Debug\net6.0\Development.Migrator.deps.json
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\bin\Debug\net6.0\Development.Migrator.dll
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\bin\Debug\net6.0\Development.Migrator.pdb
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.csproj.AssemblyReference.cache
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.AssemblyInfoInputs.cache
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.AssemblyInfo.cs
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.csproj.CoreCompileInputs.cache
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.dll
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\refint\Development.Migrator.dll
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\Development.Migrator.pdb
+D:\ASP PROJECTS\MapsterSample\Development.Migrator\obj\Debug\net6.0\ref\Development.Migrator.dll

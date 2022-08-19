@@ -1,0 +1,17 @@
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.AssemblyInfo.cs
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\bin\Debug\net6.0\Mapster.Infrastructure.deps.json
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\bin\Debug\net6.0\Mapster.Infrastructure.runtimeconfig.json
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\bin\Debug\net6.0\Mapster.Infrastructure.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\bin\Debug\net6.0\Mapster.Infrastructure.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\bin\Debug\net6.0\Mapster.Model.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\bin\Debug\net6.0\Mapster.Model.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.csproj.CopyComplete
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\refint\Mapster.Infrastructure.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\Mapster.Infrastructure.genruntimeconfig.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Infrastructure\obj\Debug\net6.0\ref\Mapster.Infrastructure.dll

@@ -1,0 +1,12 @@
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\bin\Debug\net6.0\Mapster.Shared.deps.json
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\bin\Debug\net6.0\Mapster.Shared.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\bin\Debug\net6.0\Mapster.Shared.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.csproj.AssemblyReference.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.AssemblyInfoInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.AssemblyInfo.cs
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.csproj.CoreCompileInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\refint\Mapster.Shared.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\Mapster.Shared.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Shared\obj\Debug\net6.0\ref\Mapster.Shared.dll

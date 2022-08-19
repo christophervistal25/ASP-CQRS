@@ -1,0 +1,12 @@
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\bin\Debug\net6.0\Mapster.Model.deps.json
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\bin\Debug\net6.0\Mapster.Model.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\bin\Debug\net6.0\Mapster.Model.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.csproj.AssemblyReference.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.AssemblyInfoInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.AssemblyInfo.cs
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.csproj.CoreCompileInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\refint\Mapster.Model.dll
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\Mapster.Model.pdb
+D:\ASP PROJECTS\MapsterSample\Mapster.Model\obj\Debug\net6.0\ref\Mapster.Model.dll

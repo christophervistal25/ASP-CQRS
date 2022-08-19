@@ -1,0 +1,5 @@
+D:\ASP PROJECTS\MapsterSample\Mapster.Core\obj\Debug\net6.0\Mapster.Coree.csproj.AssemblyReference.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Core\obj\Debug\net6.0\Mapster.Coree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP PROJECTS\MapsterSample\Mapster.Core\obj\Debug\net6.0\Mapster.Coree.AssemblyInfoInputs.cache
+D:\ASP PROJECTS\MapsterSample\Mapster.Core\obj\Debug\net6.0\Mapster.Coree.AssemblyInfo.cs
+D:\ASP PROJECTS\MapsterSample\Mapster.Core\obj\Debug\net6.0\Mapster.Coree.csproj.CoreCompileInputs.cache
